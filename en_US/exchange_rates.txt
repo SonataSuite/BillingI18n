@@ -1,0 +1,8 @@
+cxc.currency_id = Currency
+cxc.date = Date
+cxc.rate = Rate
+cxc.xc_rates = Exchange Rates
+cxc.action = Actions
+cxc.add_exchange = Add Exchange
+cxc.duplicated_date = The date for this rate exchange already exist.
+cxc.update_exchange = Update Exchanges

@@ -1,0 +1,12 @@
+dashboard.local_calls = Local Calls
+dashboard.outgoing_calls = Outgoing Calls
+dashboard.incoming_calls = Incoming Calls
+dashboard.transit_calls = Transit Calls
+dashboard.today_calls = Today Calls
+dashboard.date = Date
+dashboard.hour = Hour
+dashboard.extension = Extension
+dashboard.call_type = Call Type
+dashboard.callee = Callee
+dashboard.duration = Duration
+dashboard.cost = Cost

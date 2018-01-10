@@ -1,0 +1,8 @@
+schedules.description = Description
+schedules.schedules = Time Conditions
+schedules.time_group = Time Group
+schedules.rate = Rate
+schedules.no_tc = Any time condition has been defined correctly.
+schedules.rate_id = Default Rate
+schedules.rate_id.title = Rate to use in case of the time conditions doesn't match.
+rep_scheduler.next_five_run_dates = Next Five Run Dates

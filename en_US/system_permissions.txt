@@ -1,0 +1,8 @@
+system_permissions.description = Description
+system_permissions.extensions = Extensions
+system_permissions.select_extensions = Select the Extensions
+system_permissions.trunks = Trunks
+system_permissions.select_trunks = Select the Trunks
+system_permissions.cost_centers = Cost Centers
+system_permissions.select_cost_centers = Select the Cost Centers
+system_permissions.all =  -- All --

@@ -1,0 +1,8 @@
+menu.prefix_categories = Dial Codes Categories
+prefix_categories.name = Name
+prefix_categories.short_name = Short Name
+prefix_categories.description = Description
+prefix_categories.validation.duplicated_name = A dial code category with the provided name already exist.
+prefix_categories.validation.duplicated_short_name = A dial code category with the provided short name already exist.
+prefix_categories.validation.predefined = You could not delete this item because is a predefined call category.
+prefix_category.none = Uncategorized

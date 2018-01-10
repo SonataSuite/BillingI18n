@@ -1,0 +1,5 @@
+operator.name = Carrier
+operator.validation.default_operator = You could not delete this item because is the default carrier.
+operator.validation.duplicated_name = A carrier exist with the same name.
+operator.none = None
+operator.delete.confirmation = Are you sure that you want to delete this carrier?. If you delete this carrier all the rates associated to it will be deleted.

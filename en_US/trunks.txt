@@ -1,0 +1,15 @@
+trunks.trunk = Trunk Device
+trunks.description = Description
+trunks.technology = Technology
+trunks.sip = SIP
+trunks.iax = IAX
+trunks.telephony = Telephony
+trunks.cid_num = Pilot Number
+trunks.operator_id = Carrier
+trunks.pbx_server = PBX Server
+trunks.no_pbx_srv_found = No PBX Server Found.
+trunks.sync = Synchronization
+trunks.sync_msg = A trunk has been Synchronized.|:counter trunks has been Synchronized.
+trunks.validation.duplicated_trunk = A trunk exist with the same trunk device.
+trunks.none = None
+trunks.not_sync = Any trunk has been Synchronized.

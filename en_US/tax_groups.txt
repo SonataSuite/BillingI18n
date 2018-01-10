@@ -1,0 +1,5 @@
+tax_groups.description = Description
+tax_groups.taxes = Taxes
+tax_groups.tax = Tax
+tax_groups.no_taxes = Any tax has been defined correctly.
+tax_groups.none = None

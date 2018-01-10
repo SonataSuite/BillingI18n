@@ -1,0 +1,15 @@
+menu.price_categories = Price Categories
+price_category = Price Category
+price_categories.name = Name
+price_categories.markup = Markup
+price_categories.markup.default = Default Markup
+price_categories.markup.title = The percentage added by a seller to the cost of a carrier/customer rates to cover expenses and profit in fixing the selling price.
+price_categories.type = Cost By
+price_categories.type.title = Defines if the extensions with this categories will use the carrier or customer rates.
+price_categories.customer_rate = Customer Rate
+price_categories.customer_rates = Customer Rates
+price_categories.markup.repeatable.title = {:price_categories.markup.title:} If is not defined or is zero the default is taken.
+price_categories.carrier = Carrier
+price_categories.customer = Customer
+price_categories.no_customer_rates = You did not add any customer rates. Please add at least one.
+price_categories.is_being_used = You cannot delete this item because is being used by extensions module.

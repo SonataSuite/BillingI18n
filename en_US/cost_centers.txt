@@ -1,0 +1,4 @@
+cc.name = Cost Center
+cc.p_in_c = Person In Charge
+cc.validation.duplicated_name = A cost center exist with the same name.
+cc.validation.default_cc = You could not delete this item because is the default cost center.

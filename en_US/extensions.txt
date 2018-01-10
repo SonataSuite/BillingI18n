@@ -1,0 +1,13 @@
+ext.number = Extension
+ext.name = Name
+ext.cc_id = Cost Center
+ext.sync = Sync Extensions
+ext.pbx_server = PBX Server
+ext.no_pbx_srv_found = No PBX Server Found.
+ext.sync = Synchronization
+ext.sync_msg = An extension has been synchronized.|:counter extensions has been synchronized.
+ext.linc = Licensing
+ext.max_lic_reached = You have reached the maximum amount of allowed extensions.
+ext.validation.duplicated_number = An extension exist with the same number.
+ext.not_sync = Any extension has been Synchronized.
+ext.price_category = Price Category

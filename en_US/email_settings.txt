@@ -1,0 +1,19 @@
+es.type = Type
+es.smtp_secure = SMTP Secure
+es.host = Host
+es.port = Port
+es.username = Username
+es.password = Password
+es.from_name = From Name
+es.from_email = From Email
+es.bcc_email = BCC Email
+
+es.section.test_configuration = Test Configuration
+es.email = Email
+
+es.test_mail.subject = Email Test Configuration
+es.test_mail.message = The configuration has been successful
+es.test_mail.success = Configuration Successful
+es.test_mail.success.info = The email has been successfully sent
+es.test_mail.warning = Configuration Failed
+es.test_mail.warning.info = The email was not sent

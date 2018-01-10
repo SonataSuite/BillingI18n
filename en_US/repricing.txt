@@ -1,0 +1,10 @@
+repricing.start_datetime = Start Date
+repricing.end_datetime = End Date
+repricing.recalculate_costs = Recalculate Costs
+repricing.calls_processed = Calls Processed
+repricing.calls_processed_msg = Any call has been processed|[1] One call has been processed|[2,Inf] :counter calls has been processed
+repricing.extensions = Extensions
+repricing.extensions.title = It allows defining if only the calls where the listed extensions are involved will be processed. If left blank, all calls will be processed without filtering by extension
+repricing.only_undocumented =  Only Undocumented
+repricing.only_undocumented.title = It defines if only undocumented calls will be processed.
+repricing.select_extensions = Select the Extensions to Filter

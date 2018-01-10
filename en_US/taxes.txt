@@ -1,0 +1,4 @@
+taxes.description = Description
+taxes.rate = Tax
+taxes.fixed = No Percentage
+taxes.fixed.title =  If you check this, the profit will be considered cash instead of a percentage.
