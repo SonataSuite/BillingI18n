@@ -27,3 +27,7 @@ exception = <b>Exception</b>: :message at file :file on line :line
 an_exception_occurred = An exception has occurred
 trace = Error Trace
 error = Error
+extensions = Extension|Extensions
+carriers = Carrier|Carriers
+cost_centers = Cost Center|Cost Centers
+numbers = Number|Numbers
