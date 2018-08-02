@@ -7,6 +7,6 @@ dashboard.date = Date
 dashboard.hour = Hour
 dashboard.extension = Extension
 dashboard.call_type = Call Type
-dashboard.callee = Callee
+dashboard.number = Number
 dashboard.duration = Duration
 dashboard.cost = Cost
