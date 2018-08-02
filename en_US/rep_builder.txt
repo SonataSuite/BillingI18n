@@ -35,3 +35,7 @@ rep_builder.select_cost_centers = Select the Cost Centers
 rep_builder.select_carriers = Select the Carriers
 rep_builder.select_extensions = Select the Extensions
 rep_builder.duration.title = Duration Min/Max expressed in seconds
+rep_builder.format = Format
+rep_builder.format.title = Defines the format in which the report will be exported
+rep_builder.format.pdf = PDF
+rep_builder.format.csv = CSV
