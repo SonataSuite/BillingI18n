@@ -92,3 +92,4 @@ reports.summary_report.by.unmonitored = Summary Report by Undocumented Calls
 reports.reason = Reason
 reports.pdf.accountcode = {:reports.account_code:}
 report.numbers.top_more_expensive = Top More Expensive Calls by Numbers
+report.extensions.top_more_expensive = Top More Expensive Calls by Extensions
