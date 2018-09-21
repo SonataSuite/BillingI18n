@@ -1,0 +1,12 @@
+dashboard.local_calls = Llamadas Locales
+dashboard.outgoing_calls = Llamadas Salientes
+dashboard.incoming_calls = Llamadas Entrantes
+dashboard.transit_calls = Llamadas de Tránsito
+dashboard.today_calls = Llamadas de Hoy
+dashboard.date = Fecha
+dashboard.hour = Hora
+dashboard.extension = Extensión
+dashboard.call_type = Tipo de Llamada
+dashboard.number = Número
+dashboard.duration = Duración
+dashboard.cost = Costo

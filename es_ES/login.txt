@@ -1,0 +1,5 @@
+login_header = Sonata Billing
+login_sub_header = Por favor introducir sus credenciales
+username = Usuario
+password = Contraseña
+login_btn = Iniciar Sesión

@@ -1,0 +1,15 @@
+menu.price_categories = Categorías de Precios
+price_category = Categoría de Precio
+price_categories.name = Nombre
+price_categories.markup = Margen
+price_categories.markup.default = Margen Predeterminado
+price_categories.markup.title = El porcentaje agregado por un vendedor al costo de las tarifas de un Operador/Cliente para cubrir gastos y ganancias al fijar el precio de venta.
+price_categories.type = Costo por
+price_categories.type.title = Define si las extensiones con estas categorías usarán las tarifas del operador o del cliente.
+price_categories.customer_rate = Tarifa del Cliente
+price_categories.customer_rates = Tarifas del Cliente
+price_categories.markup.repeatable.title = {:price_categories.markup.title:} Si no está definido o es cero, se toma el valor predeterminado.
+price_categories.carrier = Operador
+price_categories.customer = Cliente
+price_categories.no_customer_rates = No agregó ninguna tarifa de cliente. Por favor agrega al menos una.
+price_categories.is_being_used = No puede eliminar esta Tarifa porque está siendo utilizado por el módulo de extensiones.

@@ -1,0 +1,8 @@
+menu.prefix_categories = Categorías de Códigos de Marcado
+prefix_categories.name = Nombre
+prefix_categories.short_name = Nombre Corto
+prefix_categories.description = Descripción
+prefix_categories.validation.duplicated_name = Ya existe una categoría de código de marcado con el nombre provisto.
+prefix_categories.validation.duplicated_short_name = Ya existe una categoría de código de marcado con el nombre corto provisto.
+prefix_categories.validation.predefined = No puede eliminar este elemento porque es una categoría de llamada predefinida.
+prefix_category.none = Sin Categoría

@@ -1,0 +1,15 @@
+trunks.trunk = Dispositivo de Troncal
+trunks.description = Descripción
+trunks.technology = Tecnología
+trunks.sip = SIP
+trunks.iax = IAX
+trunks.telephony = Telefonía
+trunks.cid_num = Número de Piloto
+trunks.operator_id = Operador
+trunks.pbx_server = Servidor PBX
+trunks.no_pbx_srv_found = No se encontró ningún servidor PBX.
+trunks.sync = Sincronización
+trunks.sync_msg = Una troncal ha sido sincronizado.|:counter troncales han sido sincronizado
+trunks.validation.duplicated_trunk = Existe una troncal con el mismo dispositivo de troncal.
+trunks.none = Ninguna
+trunks.not_sync = Cualquier troncal ha sido sincronizado.

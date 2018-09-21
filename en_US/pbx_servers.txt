@@ -1,7 +1,7 @@
 pbx_srv.description = Description
 pbx_srv.pbx_format = PBX Format
-pbx.ombutel = Ombutel
-pbx.fpbx = Free PBX
+pbx.ombutel = VitalPBX
+pbx.fpbx = FreePBX
 pbx.elastix = Elastix
 pbx_srv.cdr_tz = CDR Timezone
 pbx_srv.db_settings = PBX Connection Settings

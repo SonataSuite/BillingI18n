@@ -1,0 +1,12 @@
+billing_reports.extensions = Extensiones
+billing_reports.carriers = Operadores
+billing_reports.cost_centers = Centros de Costo
+billing_reports.account_codes = Códigos de Cuenta
+billing_reports.customer_codes = Códigos de Cliente
+billing_reports.authorization_codes = Códigos de Autorización
+billing_reports.unmonitored = Sin Monitorear
+billing_reports.detailed = Detallado
+billing_reports.summary = Resumen
+billing_reports.top_more_expensive = Top - Más Caras
+billing_reports.top_more_longest = Top - Más Largas
+billing_reports.numbers = Números

@@ -1,0 +1,10 @@
+repricing.start_datetime = Fecha de Inicio
+repricing.end_datetime = Fecha Final
+repricing.recalculate_costs = Recalcular los Costos
+repricing.calls_processed = Llamadas Procesadas
+repricing.calls_processed_msg = Se procesó cualquier llamada|[1] Se procesó una llamada|[2,Inf]:counter llamadas han sido procesadas
+repricing.extensions = Extensiones
+repricing.extensions.title = Permite definir si solo se procesarán las llamadas de las extensiones enumeradas. Si se deja en blanco, todas las llamadas se procesarán sin filtrar por extensión
+repricing.only_undocumented =  Solo Indocumentadas
+repricing.only_undocumented.title = Define si solo se procesarán las llamadas no documentadas.
+repricing.select_extensions = Seleccione las extensiones para filtrar

@@ -1,0 +1,7 @@
+users.user = Usuario
+users.password = Contraseña
+users.role_id = Rol
+users.timezone = Zona Horaria
+users.language = Idioma
+users.active_account = Cuenta Activa
+users.system_permission_id = Permisos del Sistema

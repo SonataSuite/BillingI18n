@@ -1,0 +1,5 @@
+tax_groups.description = Descripción
+tax_groups.taxes = Impuestos
+tax_groups.tax = Impuesto
+tax_groups.no_taxes = Cualquier impuesto ha sido definido correctamente.
+tax_groups.none = Ninguno

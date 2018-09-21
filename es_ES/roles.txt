@@ -1,0 +1,6 @@
+roles.name = Nombre
+roles.menu_access = Acceso al Menú
+roles.select_all = Seleccionar Todo
+roles.remove_all = Eliminar Todo
+roles.updating.def_role = No puede actualizar este rol porque es un rol predeterminada.
+roles.duplicated_name = Hay un rol existe con el mismo nombre.
