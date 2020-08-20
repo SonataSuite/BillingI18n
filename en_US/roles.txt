@@ -3,4 +3,5 @@ roles.menu_access = Menu Access
 roles.select_all = Select All
 roles.remove_all = Remove All
 roles.updating.def_role = You cannot update this role, because is a default role.
+roles.updating.del_role = You cannot delete this role, because is a default role.
 roles.duplicated_name =  A role exist with the same name.

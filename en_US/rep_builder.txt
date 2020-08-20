@@ -39,3 +39,4 @@ rep_builder.format = Format
 rep_builder.format.title = Defines the format in which the report will be exported
 rep_builder.format.pdf = PDF
 rep_builder.format.csv = CSV
+rep_builder.no_server_configured = The PBX server is not configured/connected. Click here to configure it

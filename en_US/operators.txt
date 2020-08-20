@@ -3,3 +3,5 @@ operator.validation.default_operator = You could not delete this item because is
 operator.validation.duplicated_name = A carrier exist with the same name.
 operator.none = None
 operator.delete.confirmation = Are you sure that you want to delete this carrier?. If you delete this carrier all the rates associated to it will be deleted.
+operator.shared = Shared
+operator.shared.title = If checked, the operator and the rates assigned to it will be shared with the other tenants.

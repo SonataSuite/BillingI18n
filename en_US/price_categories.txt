@@ -13,3 +13,5 @@ price_categories.carrier = Carrier
 price_categories.customer = Customer
 price_categories.no_customer_rates = You did not add any customer rates. Please add at least one.
 price_categories.is_being_used = You cannot delete this item because is being used by extensions module.
+price_categories.shared = Shared
+price_categories.shared.title = If checked, the price category will be shared with all the tenants

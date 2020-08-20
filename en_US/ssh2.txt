@@ -1,4 +1,4 @@
-ssh2.not_supported = SSH2 driver is not supported by your system.
+ssh2.not_supported = SSH2 driver is not supporter by your system.
 ssh2.could_not_connect = Could not connect to host :host on port :port.
 ssh2.could_not_authenticate = Could not authenticate to user :username on host :host
 ssh2.could_not_set_blocking = Could not set blocking mode on command streaming.

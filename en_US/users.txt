@@ -5,3 +5,7 @@ users.timezone = Timezone
 users.language = Language
 users.active_account = Active Account
 users.system_permission_id = System Permissions
+users.tenant = Tenant
+users.tenant.title = Tenant to which this user belongs to
+users.display_name = Full Name
+users.login_email = User Email
