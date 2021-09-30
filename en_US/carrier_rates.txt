@@ -34,3 +34,5 @@ carrier_rates.import = {:rates_importer.import:}
 carrier_rates.header.import = Import Carrier Rates
 carrier_rates.global_strip = {:customer_rates.global_strip:}
 carrier_rates.global_cost_interval = {:customer_rates.global_cost_interval:}
+carrier_rates.shared = {:price_categories.shared:}
+carrier_rates.shared.title =  If checked, the rates will be shared with all the tenants

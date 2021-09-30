@@ -40,3 +40,5 @@ rep_builder.format.title = Defines the format in which the report will be export
 rep_builder.format.pdf = PDF
 rep_builder.format.csv = CSV
 rep_builder.no_server_configured = The PBX server is not configured/connected. Click here to configure it
+rep_builder.full_time = Include Ringing Time
+rep_builder.full_time.title = If checked, it includes the time before answering the call.
