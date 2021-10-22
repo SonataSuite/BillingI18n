@@ -1,5 +1,5 @@
-login_header = Sonata Billing
-login_sub_header = Por favor introducir sus credenciales
-username = Usuario
+login_header = Sistema de Facturación Telefónica
+login_sub_header = Introduzca sus Credenciales
+username = Nombre de Usuario
 password = Contraseña
 login_btn = Iniciar Sesión

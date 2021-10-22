@@ -1,4 +1,4 @@
 taxes.description = Descripción
 taxes.rate = Impuesto
 taxes.fixed = Sin Porcentaje
-taxes.fixed.title = Si marca esta opción, la ganancia se considerará este monto en lugar de un porcentaje.
+taxes.fixed.title =  Si seleccionas esta opción, la ganancia se considerará en un monto fijo en lugar de un porcentaje.

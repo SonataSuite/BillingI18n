@@ -1,5 +1,7 @@
 operator.name = Operador
-operator.validation.default_operator = No puede eliminar este Operador porque es el Operador predeterminado.
-operator.validation.duplicated_name = |Ya existe un Operador con el mismo nombre.
-operator.none = Ninguna
-operator.delete.confirmation = ¿Estás seguro de que deseas eliminar este Operador? Si elimina este Operador, se eliminarán todas las tarifas asociadas.
+operator.validation.default_operator = No pudo eliminar este Operador porque es el Operador predeterminado.
+operator.validation.duplicated_name = Existe un Operador con el mismo nombre.
+operator.none = Ninguno
+operator.delete.confirmation = ¿Está seguro de que desea eliminar este Operador? Si elimina este Operador, se eliminarán todas las tarifas asociadas.
+operator.shared = Compartir
+operator.shared.title = Si está marcado, el Operador y las tarifas asignadas se compartirán con los otros inquilinos.

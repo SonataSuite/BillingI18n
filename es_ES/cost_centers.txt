@@ -1,4 +1,4 @@
-cc.name = Centro de Costo
+cc.name = Centro de Costos
 cc.p_in_c = Persona a Cargo
 cc.validation.duplicated_name = Existe un centro de costo con el mismo nombre.
-cc.validation.default_cc = No puede eliminar este elemento porque es el centro de costo predeterminado.
+cc.validation.default_cc = No se puede eliminar el Centro de Costos predeterminado.

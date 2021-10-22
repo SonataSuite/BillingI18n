@@ -1,6 +1,6 @@
-menu.carrier_rates = Tarifas del Operador
-carrier_rates.operator = Carrier
-carrier_rates.operator.title = Define a qué compañía pertenece este grupo de códigos de marcado y tarifas
+menu.carrier_rates = Tarifas de Operador
+carrier_rates.operator = Operador
+carrier_rates.operator.title = Define a qué operador pertenece este grupo de códigos de marcación y tarifas
 carrier_rates.description = {:customer_rates.description:}
 carrier_rates.prefixes = {:customer_rates.prefixes:}
 carrier_rates.prefix = {:customer_rates.prefix:}

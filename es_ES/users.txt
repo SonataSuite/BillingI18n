@@ -1,7 +1,11 @@
 users.user = Usuario
 users.password = Contraseña
-users.role_id = Rol
+users.role_id = Role
 users.timezone = Zona Horaria
 users.language = Idioma
 users.active_account = Cuenta Activa
 users.system_permission_id = Permisos del Sistema
+users.tenant = Tenant
+users.tenant.title = Tenant al que pertenece este usuario
+users.display_name = Nombre Completo
+users.login_email = Email del Usuario

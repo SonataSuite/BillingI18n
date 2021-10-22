@@ -1,8 +1,8 @@
 schedules.description = Descripción
-schedules.schedules = Condiciones Horarias
-schedules.time_group = Grupo Horarios
+schedules.schedules = Condiciones de Tiempo
+schedules.time_group = Grupo de Tiempo
 schedules.rate = Tarifa
-schedules.no_tc = Cualquier Condición Horaria se ha definido correctamente.
+schedules.no_tc = Cualquier condición de tiempo se ha definido correctamente.
 schedules.rate_id = Tarifa Predeterminada
-schedules.rate_id.title = Tarifa a utilizar en caso de que las Condiciones Horarias no coincidan.
-rep_scheduler.next_five_run_dates = Las próximas cinco fechas de ejecución
+schedules.rate_id.title = Tarifa a utilizar en caso de que las condiciones de tiempo no coincidan.
+rep_scheduler.next_five_run_dates = Próximas Cinco Fechas de Ejecución

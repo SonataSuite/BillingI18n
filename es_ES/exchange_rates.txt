@@ -1,8 +1,8 @@
 cxc.currency_id = Moneda
 cxc.date = Fecha
-cxc.rate = Tarifa
+cxc.rate = Tipo de Cambio
 cxc.xc_rates = Tipos de Cambio
 cxc.action = Acciones
-cxc.add_exchange = Añadir Cambio
-cxc.duplicated_date = La fecha para este tipo de cambio ya existen.
-cxc.update_exchange = Actualizar Tipo de Cambio
+cxc.add_exchange = Agregar Tipos de Cambio
+cxc.duplicated_date = La fecha para este tipo de cambio ya existe.
+cxc.update_exchange = Actualizar Tipos de Cambio
