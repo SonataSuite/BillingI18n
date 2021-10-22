@@ -9,7 +9,6 @@ rep_builder.call_direction = Call Types
 rep_builder.extensions = Extensions
 rep_builder.carriers = Carriers
 rep_builder.cost_centers = Cost Centers
-rep_builder.call_categories = Select Call Categories
 rep_builder.numbers = Numbers
 rep_builder.currency = Currency
 rep_builder.duration = Duration Min/Max

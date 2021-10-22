@@ -10,3 +10,4 @@ billing_reports.summary = Summary
 billing_reports.top_more_expensive = Top - More Expensive
 billing_reports.top_more_longest = Top - More Longest
 billing_reports.numbers = Numbers
+billing_reports.call_categories = Call Categories
